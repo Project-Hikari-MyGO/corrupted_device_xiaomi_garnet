@@ -8,6 +8,9 @@ LOCAL_OVERRIDES_PACKAGES := \
     Chrome-Stub \
     Chrome \
     Drive \
+    Browser \
+    Gramophone \
+    MaestroPrebuilt \
     Maps \
     PrebuiltGmail \
     YouTube
