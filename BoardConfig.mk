@@ -12,6 +12,7 @@ TARGET_GRALLOC_HANDLE_HAS_RESERVED_SIZE := true
 
 # Inherit from proprietary files for miuicamera
 -include vendor/xiaomi/garnet-miuicamera/products/board.mk
+TARGET_CAMERA_PACKAGE_NAME := com.android.camera
 
 # A/B
 AB_OTA_UPDATER := true
