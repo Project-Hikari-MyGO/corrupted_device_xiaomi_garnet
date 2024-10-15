@@ -327,7 +327,8 @@ PRODUCT_PACKAGES += \
     libcodec2_hidl@1.2.vendor
     libcodec2_soft_common.vendor \
     libcodec2_vndk.vendor \
-    libstagefright_softomx_plugin.vendor
+    libstagefright_softomx_plugin.vendor \
+    libmm-omxcore
 
 PRODUCT_PACKAGES += \
     libavservices_minijail \
